@@ -19,7 +19,7 @@
 
 <nav class="navbar" role="navigation" aria-label="Main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="https://bulma.io">
+    <a class="navbar-item" href="/">
       <img src="logo-192.png" height="28" alt="Logo"/>
     </a>
 
