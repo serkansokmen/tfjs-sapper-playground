@@ -38,8 +38,10 @@
     if (webcamElement) {
       webcamElement.pause();
       webcamElement.srcObject = null;
-      for (let track of localStream.getTracks()) {
-        track.stop();
+      if (localStream) {
+        for (let track of localStream.getTracks()) {
+          track.stop();
+        }
       }
     }
   });

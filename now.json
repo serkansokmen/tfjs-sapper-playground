@@ -1,10 +1,7 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "__sapper__/build/index.js",
-      "use": "now-sapper"
-    }
-  ],
+  "name": "tf-sapper-playground",
+  "alias": "tf-sapper-playground",
+  "builds": [{ "src": "__sapper__/build/index.js", "use": "now-sapper" }],
   "routes": [{ "src": "/(.*)", "dest": "__sapper__/build/index.js" }]
 }

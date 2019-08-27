@@ -4,7 +4,5 @@
 yarn-error.log
 /cypress/screenshots/
 /__sapper__/
-
-/static/models
-/static/themes
-/static/images/bakarlar
+.env
+.env.build
