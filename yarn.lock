@@ -2230,10 +2230,10 @@ supports-color@^6.1.0:
   dependencies:
     has-flag "^3.0.0"
 
-svelte-dropzone@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/svelte-dropzone/-/svelte-dropzone-1.0.5.tgz#fc0ef9c74992bd0668f2852a0142d3913459a6ca"
-  integrity sha512-04XVYYYVTBoqdtX26eupIVhbCR6sSHIrQlzu7ZGWHIzKlsK1zj/oDRIQrlsLQZnKgSY7pW2ed7W0ESF+z12rOQ==
+svelte-dropzone@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/svelte-dropzone/-/svelte-dropzone-1.0.6.tgz#585f74526d39b0c8695b4ab26539e1f43be863ad"
+  integrity sha512-WGTLT04bNgIUVv9Bh0u3m49aavxYs4mBZgzQhnaMa8e/JiNrAOCNIb9K68ZKbjqzs8cbD5ybCAwHMoxAyv5NKA==
   dependencies:
     dropzone "^5.5.1"
 
