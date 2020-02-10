@@ -25,7 +25,7 @@
     "@babel/preset-env": "^7.5.5",
     "@babel/runtime": "^7.5.5",
     "@tensorflow-models/knn-classifier": "^1.2.1",
-    "@tensorflow-models/mobilenet": "^2.0.3",
+    "@tensorflow-models/mobilenet": "^2.0.4",
     "@tensorflow/tfjs": "^1.2.8",
     "eslint": "^6.2.2",
     "npm-run-all": "^4.1.5",
