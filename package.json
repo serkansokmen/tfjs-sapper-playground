@@ -23,7 +23,7 @@
     "@babel/plugin-syntax-dynamic-import": "^7.2.0",
     "@babel/plugin-transform-runtime": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
-    "@babel/runtime": "^7.5.5",
+    "@babel/runtime": "^7.8.7",
     "@tensorflow-models/knn-classifier": "^1.2.1",
     "@tensorflow-models/mobilenet": "^2.0.3",
     "@tensorflow/tfjs": "^1.2.8",
