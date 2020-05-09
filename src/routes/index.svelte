@@ -53,6 +53,6 @@
   {#if output}
     <img src={output} alt="Output" width={size} height={size} />
   {/if}
-  <img src="images/guide.png" alt="guide" class="guide" />
+  <img src="images/bakarlar/guide.png" alt="guide" class="guide" />
   <input type="checkbox" bind:checked={isTrackingEnabled} />
 </Loading>
