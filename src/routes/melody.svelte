@@ -1,5 +1,5 @@
 <script>
-  import { onMount } from 'svelte';
+  import { onMount } from "svelte";
   import Loading from '../components/Loading.svelte';
 
   let rnn;
