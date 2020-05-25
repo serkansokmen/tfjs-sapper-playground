@@ -4,9 +4,9 @@
   "printWidth": 120,
   "semi": false,
   "singleQuote": true,
-  "svelteSortOrder": "styles-scripts-markup",
+  "svelteSortOrder": "scripts-markup-styles",
   "svelteStrictMode": true,
-  "svelteBracketNewLine": true,
+  "svelteBracketNewLine": false,
   "svelteAllowShorthand": true,
   "tabWidth": 2,
   "useTabs": false

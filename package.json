@@ -9,12 +9,12 @@
     "start": "node __sapper__/build",
     "cy:run": "cypress run",
     "cy:open": "cypress open",
-    "test": "run-p --race dev cy:run"
+    "test": "run-p --race dev cy:run",
+    "format": "prettier --write '{src,.storybook,cypress,__{tests,mocks}__}/**/*.{js,css,html,svelte}'"
   },
   "dependencies": {
     "compression": "1.7.4",
     "polka": "next",
-    "seedrandom": "3.0.5",
     "sirv": "0.4.6"
   },
   "devDependencies": {
@@ -23,16 +23,18 @@
     "@babel/plugin-transform-runtime": "7.9.6",
     "@babel/preset-env": "7.9.6",
     "@babel/runtime": "7.9.6",
+    "@rollup/plugin-babel": "5.0.2",
     "@rollup/plugin-commonjs": "12.0.0",
     "@rollup/plugin-node-resolve": "8.0.0",
     "@rollup/plugin-replace": "2.3.2",
     "@tensorflow/tfjs": "1.7.4",
     "npm-run-all": "4.1.5",
+    "prettier-plugin-svelte": "1.1.0",
     "rollup": "2.10.9",
-    "rollup-plugin-babel": "4.4.0",
     "rollup-plugin-svelte": "5.2.2",
     "rollup-plugin-terser": "6.0.1",
     "sapper": "0.27.13",
+    "seedrandom": "3.0.5",
     "svelte": "3.22.3"
   }
 }
