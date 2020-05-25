@@ -12,7 +12,7 @@
   let model;
 
   onMount(() => {
-    model = pix2pix('/models/bakarlar_002_BtoA.pict', () => {
+    model = pix2pix('/model/bakarlar_002_BtoA.pict', () => {
       isModelLoaded = true;
     });
   });
