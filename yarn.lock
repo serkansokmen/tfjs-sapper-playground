@@ -1953,10 +1953,10 @@ polka@next:
     "@polka/url" "^1.0.0-next.11"
     trouter "^3.1.0"
 
-prettier-plugin-svelte@1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-1.1.0.tgz#e6ec282d8457598b0c02164083b11ad8cb8ab304"
-  integrity sha512-wmIggG/ryV0wcmE9D5p+k5TwKDpS2SGKJpF6IV1aYHK7dkBJD+di1w47Ci00DRsI4RrXZRC2Ef37DSyrTb6Zqg==
+prettier-plugin-svelte@2.10.1:
+  version "2.10.1"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-2.10.1.tgz#e1abbe5689e8a926c60b8bc42e61233556ca90d1"
+  integrity sha512-Wlq7Z5v2ueCubWo0TZzKc9XHcm7TDxqcuzRuGd0gcENfzfT4JZ9yDlCbEgxWgiPmLHkBjfOtpAWkcT28MCDpUQ==
 
 private@^0.1.8:
   version "0.1.8"
